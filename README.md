@@ -1,5 +1,5 @@
 # CarLife映射版
-carLife映射版基于最新版百度CarLife(5.12.10)修改，目前还没有修改声音问题<br>
+[carLife映射版](https://github.com/puderty/pudev/releases/download/1/carlife.yingshe.apk)  基于最新版百度CarLife(5.12.10)修改，目前还没有修改声音问题<br>
 相对于carlife Ex，修改了对所有手机都开启高清模式支持，稍微调整了下底部栏高度<br>
 网易云音乐不会崩溃并且可用<br>
 点击事件和carLife Ex一样，如果Ex不能用的，这个也用不了，要支持只能针对root用户开发<br>
