@@ -14,5 +14,5 @@ carLife高清版是跟官方版一样的可息屏版本，但不能映射，UI�
 AutoMap.apk是基于高德地图sdk实现的能在Android Auto上使用的第三方地图，但需要root解锁
 解锁原理和AA Mirror一致，可以内部解锁或者使用AA Phenotype Patcher
 
-#意见
+# 反馈
 有什么意见和反馈可以在Issues里提。。。
