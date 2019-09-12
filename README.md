@@ -6,7 +6,7 @@
 横屏问题可以尝试安装Orientation Control，不过在我自己的Vivo 9.0上没有作用，在华为上没问题<br>
 
 # CarLife高清版
-[carLife高清版](https://github.com/puderty/pudev/releases/download/1/carlife.gaoqing.apk)是跟官方版一样的可息屏版本，但不能映射，UI修改和映射版一致，添加高清支持
+[carLife高清版](https://github.com/puderty/pudev/releases/download/1/carlife_gaoqing.apk)是跟官方版一样的可息屏版本，但不能映射，UI修改和映射版一致，添加高清支持
 
 两个版本的高清支持的后果都是手机会比较烫，这应该也是百度只对部分手机开启高清的原因。<br>
 性能不是很好的手机不是很建议使用
