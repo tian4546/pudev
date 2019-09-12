@@ -13,7 +13,7 @@
 
 
 # AutoMap for Android Auto
-AutoMap.apk是基于高德地图sdk实现的能在Android Auto上使用的第三方地图，但需要root解锁<br>
+[AutoMap](https://github.com/puderty/pudev/raw/master/AutoMap.apk)是基于高德地图sdk实现的能在Android Auto上使用的第三方地图，但需要root解锁<br>
 解锁原理和AA Mirror一致，可以内部解锁或者使用AA Phenotype Patcher。<br>
 几张png图片为效果图
 
