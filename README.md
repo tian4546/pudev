@@ -4,6 +4,7 @@
 网易云音乐不会崩溃并且可用<br>
 点击事件和carLife Ex一样，如果Ex不能用的，这个也用不了，要支持只能针对root用户开发<br>
 横屏问题可以尝试安装Orientation Control，不过在我自己的Vivo 9.0上没有作用，在华为上没问题<br>
+第一次启动会提示需要获取屏幕内容权限，请允许，并勾选始终允许
 
 # CarLife高清版
 [carLife高清版 点击下载](https://github.com/puderty/pudev/releases/download/1/carlife_gaoqing.apk)是跟官方版一样的可息屏版本，但不能映射，UI修改和映射版一致，添加高清支持
