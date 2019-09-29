@@ -13,7 +13,7 @@
 [carLife高清版 点击下载](https://github.com/puderty/pudev/releases/download/1/carlife_gaoqing.apk)是跟官方版一样的可息屏版本，但不能映射，UI修改和映射版一致，添加高清支持
 
 两个版本的高清支持的后果都是手机会比较烫，这应该也是百度只对部分手机开启高清的原因。<br>
-性能不是很好的手机不是很建议使用
+性能不是很好的手机不是很建议使用<br>
 备用下载链接:<br>
 [百度云](https://pan.baidu.com/s/1Z84u9h6XBldm2-mFM1l2SA) 提取码: 74qr<br>
 [MediaFile](http://www.mediafire.com/file/jx6ofhc8o885fqp/carLife_gaoqing.apk)
@@ -21,7 +21,7 @@
 # AutoMap for Android Auto
 [AutoMap 点击下载](https://github.com/puderty/pudev/releases/download/1/AutoMap.apk)是基于高德地图sdk实现的能在Android Auto上使用的第三方地图，但需要root解锁<br>
 解锁原理和AA Mirror一致，可以内部解锁或者使用AA Phenotype Patcher。<br>
-几张png图片为效果图
+几张png图片为效果图<br>
 备用下载链接:<br>
 [百度云](https://pan.baidu.com/s/1rp_YSTQfp8kH-6mBPckzzg) 提取码: 17r9<br>
 [MediaFile](https://www.mediafire.com/file/nqr4bd6upc7dy7h/AutoMap.apk/file)
