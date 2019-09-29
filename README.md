@@ -15,7 +15,7 @@
 两个版本的高清支持的后果都是手机会比较烫，这应该也是百度只对部分手机开启高清的原因。<br>
 性能不是很好的手机不是很建议使用
 备用下载链接:<br>
-[百度云](链接: https://pan.baidu.com/s/1Z84u9h6XBldm2-mFM1l2SA) 提取码: 74qr<br>
+[百度云](https://pan.baidu.com/s/1Z84u9h6XBldm2-mFM1l2SA) 提取码: 74qr<br>
 [MediaFile](http://www.mediafire.com/file/jx6ofhc8o885fqp/carLife_gaoqing.apk)
 
 # AutoMap for Android Auto
@@ -23,7 +23,7 @@
 解锁原理和AA Mirror一致，可以内部解锁或者使用AA Phenotype Patcher。<br>
 几张png图片为效果图
 备用下载链接:<br>
-[百度云](链接: https://pan.baidu.com/s/1rp_YSTQfp8kH-6mBPckzzg) 提取码: 17r9<br>
+[百度云](https://pan.baidu.com/s/1rp_YSTQfp8kH-6mBPckzzg) 提取码: 17r9<br>
 [MediaFile](https://www.mediafire.com/file/nqr4bd6upc7dy7h/AutoMap.apk/file)
 [酷安](https://www.coolapk.com/apk/243425)
 
