@@ -24,8 +24,8 @@
 几张png图片为效果图<br>
 备用下载链接:<br>
 [百度云](https://pan.baidu.com/s/1rp_YSTQfp8kH-6mBPckzzg) 提取码: 17r9<br>
-[MediaFile](https://www.mediafire.com/file/nqr4bd6upc7dy7h/AutoMap.apk/file)
-[酷安](https://www.coolapk.com/apk/243425)
+[MediaFile](https://www.mediafire.com/file/nqr4bd6upc7dy7h/AutoMap.apk/file)<br>
+[酷安](https://www.coolapk.com/apk/243425)<br>
 
 # 反馈
 有什么意见和反馈可以在Issues里提。。。
