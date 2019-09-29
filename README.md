@@ -22,6 +22,10 @@
 [AutoMap 点击下载](https://github.com/puderty/pudev/releases/download/1/AutoMap.apk)是基于高德地图sdk实现的能在Android Auto上使用的第三方地图，但需要root解锁<br>
 解锁原理和AA Mirror一致，可以内部解锁或者使用AA Phenotype Patcher。<br>
 几张png图片为效果图
+备用下载链接:<br>
+[百度云](链接: https://pan.baidu.com/s/1rp_YSTQfp8kH-6mBPckzzg) 提取码: 17r9<br>
+[MediaFile](https://www.mediafire.com/file/nqr4bd6upc7dy7h/AutoMap.apk/file)
+[酷安](https://www.coolapk.com/apk/243425)
 
 # 反馈
 有什么意见和反馈可以在Issues里提。。。
